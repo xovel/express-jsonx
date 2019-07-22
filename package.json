@@ -1,0 +1,23 @@
+{
+  "name": "express-jsonx",
+  "version": "0.0.1",
+  "description": "An opinionated express middleware just extend res.json.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xovel/express-jsonx.git"
+  },
+  "keywords": [
+    "express",
+    "middleware"
+  ],
+  "author": "xovel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xovel/express-jsonx/issues"
+  },
+  "homepage": "https://github.com/xovel/express-jsonx#readme"
+}
